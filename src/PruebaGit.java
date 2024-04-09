@@ -5,6 +5,9 @@ public class PruebaGit {
 
 		
 		System.out.println("Hola, probaré Git");
+		System.out.println("a+b" +suma(5,1));
+		System.out.println("a-b" +resta(5,1));
+		
 		
 	}
 	public static int suma(int a, int b) {
