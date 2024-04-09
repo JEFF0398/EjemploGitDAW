@@ -5,6 +5,9 @@ public class PruebaGit {
 
 		
 		System.out.println("Hola, probaré Git");
+		
 	}
-
+	public static int suma(int a, int b) {
+		return a+b;
+	}
 }
